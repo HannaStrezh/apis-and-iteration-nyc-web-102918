@@ -19,7 +19,7 @@ def get_character_movies_from_api(character)
   #binding.pry
 
   end
-
+###### good job guys!!!!!
   # NOTE: in this demonstration we name many of the variables _hash or _array.
   # This is done for educational purposes. This is not typically done in code.
 
